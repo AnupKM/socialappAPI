@@ -1,0 +1,8 @@
+Diese sind alle Urls für die Services nochmal aufgelistet.
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/offers
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/socialapp/rest/suboffersu/parameter1
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/suboffers
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/traeger
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/search/parameter1/parameter2/parameter3
+http://ltannotation.informatik.uni-hamburg.de/socialapp/rest/geosearch/paramter1/parameter2/parameter3/parameter4/parameter5
+
